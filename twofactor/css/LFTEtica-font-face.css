@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "LFTEtica";
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url("./LFTEtica-Book.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "LFTEtica";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("./LFTEtica-Semibold.woff2") format("woff2");
+}
